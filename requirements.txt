@@ -19,8 +19,8 @@ seaborn>=0.12.0
 
 # Sequence Models
 transformers>=4.30.0
-mamba-ssm>=1.0.0
 einops>=0.6.0
+# mamba-ssm>=1.0.0  # Commented out due to installation issues
 
 # Configuration and Utilities
 pyyaml>=6.0
