@@ -263,4 +263,3 @@ docker-compose.yml
 # Local development
 local/
 scratch/
-experiments/
